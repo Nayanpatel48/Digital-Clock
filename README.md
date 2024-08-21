@@ -1,4 +1,4 @@
 # Digital-Clock
 This is a project of digital clock.<br/>
 demo:<br/>
-[Screencast from 2024-08-18 13-40-58.webm](https://github.com/user-attachments/assets/7c8788b4-c4ad-4637-9cf8-2bbc50c6e6fb)
+[Screencast from 2024-08-21 20-21-40.webm](https://github.com/user-attachments/assets/d5b0062e-ed66-456d-84be-ca12554f8c24)
